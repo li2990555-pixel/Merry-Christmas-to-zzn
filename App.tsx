@@ -32,7 +32,7 @@ const App: React.FC = () => {
         <div className="flex flex-col items-center w-full">
           <div className="pointer-events-auto text-center">
             <h1 className="text-3xl font-serif tracking-[0.2em] text-[#FDE68A] drop-shadow-[0_0_15px_rgba(253,230,138,0.4)] leading-tight uppercase whitespace-nowrap">
-              MERRY CHRISTMAS TO ZZN
+              MERRY CHRISTMAS
             </h1>
           </div>
         </div>
