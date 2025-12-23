@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas: Gesture Control 3D",
+  "description": "An immersive 3D Christmas experience using Three.js and MediaPipe hand tracking. Control the explosion and assembly of a golden Christmas tree with your hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
